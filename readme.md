@@ -7,3 +7,8 @@
 # part 5 - basic routing
 
 In this section we learn about how to create basic routes. how to pass data in the parameter.
+
+# part 7 - basic form
+
+- learn the basic of creating a form using ReactiveFormsModule.
+ remember to declare it in the import otherwise in the HTML it wont like it when you bind the form.
